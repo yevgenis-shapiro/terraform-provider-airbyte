@@ -106,4 +106,4 @@ Your `<PATH>` may vary depending on how your Go environment variables are config
 While we value open-source contributions to this SDK, this library is generated programmatically.
 Feel free to open a PR or a Github issue as a proof of concept and we'll do our best to include it in a future release!
 
-### Provider Created by [Speakeasy](https://docs.speakeasyapi.dev/docs/using-speakeasy/client-sdks)
+
